@@ -36,6 +36,11 @@
 
     //Q1)  var age = 17
     //     alert("I am" + " " + age + " " + "years old.")
+    //Q2)  var times = "2";
+    //     for(var i = 1 ; i<times ; i++){
+    //     times += i;
+    //     alert("You have visited the site for " + i + " times")
+    //     }
     //Q3)  var birthYear = 2006;
     //     document.write("My birth year is " + birthYear + "<br>" + "Data type of my declared Variable is " + typeof(birthYear)) ;
     //Q4)  var visitorName = "John Doe";
